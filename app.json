@@ -1,0 +1,32 @@
+{
+  "id": "12345678-1234-1234-1234-123456789012",
+  "name": "Hotel PMS",
+  "publisher": "HMS",
+  "version": "1.0.0.0",
+  "brief": "Hotel Property Management System for Business Central",
+  "description": "Comprehensive Hotel PMS system that manages Rooms, Guests, and Bookings with availability checking and validation",
+  "privacyStatement": "https://example.com/privacy",
+  "EULA": "https://example.com/eula",
+  "help": "https://example.com/help",
+  "url": "https://example.com",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "11.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
