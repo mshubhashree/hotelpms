@@ -1,0 +1,24 @@
+# AL-specific
+.alpackages/
+.snapshots/
+*.app
+rad.json
+.vscode/.alcache/
+
+# Build artifacts
+*.flf
+*.g.xlf
+
+# VS Code
+.vs/
+.vscode/.alcache
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
